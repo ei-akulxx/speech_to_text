@@ -1,0 +1,10 @@
+{
+  "name": "speech-to-text-translation",
+  "version": "1.0.0",
+  "description": "Speech-to-Text and Translation module for Botpress",
+  "main": "index.js",
+  "botpress": {
+    "module": true,
+    "events": ["message"]
+  }
+}
